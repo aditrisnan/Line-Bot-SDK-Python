@@ -1,2 +1,2 @@
 # Line-Bot-SDK-Python
-Messaging API Line using Python
+Messaging API Line Bot using Python
